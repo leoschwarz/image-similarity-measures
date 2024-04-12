@@ -1,3 +1,6 @@
+[project]
+name = "image-similarity-measures"
+
 [tool.poetry]
 name = "image-similarity-measures"
 version = "0.3.7"
